@@ -1,0 +1,16 @@
+{
+  "name": "typerom-skip-take-error-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.0.8",
+    "typeorm": "^0.3.6"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
